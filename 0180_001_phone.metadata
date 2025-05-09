@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN	
+SES	0180
+CMT	*** Speech Label Information ***
+FIP	data/category/0180/0180_001_phone.wav
+CCD	Dream
+REP	indoor
+RED	
+RET	
+CMT	*** Speech Data Coding ***
+SAM	16000
+SNB	2
+SBF	lohi
+SSB	16
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O1,O2
+SEX	O1_Male,O2_Male
+AGE	O1_18,O2_21
+ACC	O1_Islamabad,O2_Islamabad
+ACT	O1_Urdu Native Accent,O2_Urdu Native Accent
+BIR	O1_Islamabad,O2_Islamabad
+CMT	*** Recording Conditions ***
+SNQ	
+MIP	close
+MIT	O1_Oppo F11,O2_Vivo 1727
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	0180_001_phone.txt
+LBR	1830.78
+LBO	881.9913669597369
+CMT	*** Customized Label Body ***
+SRA	
+EMO	
+ORS	
